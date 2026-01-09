@@ -1,0 +1,192 @@
+{
+    "perYear": {
+        "2008": 738641,
+        "2009": 717214,
+        "2010": 715324,
+        "2011": 724915,
+        "2012": 737329,
+        "2013": 686407,
+        "2014": 680183,
+        "2015": 711624,
+        "2016": 736121
+    },
+    "dangerousBoroughs": [
+        "Westminster",
+        "Lambeth",
+        "Southwark",
+        "Camden",
+        "Newham",
+        "Croydon",
+        "Ealing",
+        "Islington",
+        "Tower Hamlets",
+        "Brent"
+    ],
+    "commonCrimePerBorough": {
+        "Croydon": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 33021
+        },
+        "Greenwich": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 22425
+        },
+        "Bromley": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 23935
+        },
+        "Redbridge": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 21760
+        },
+        "Wandsworth": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 29956
+        },
+        "Ealing": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 29165
+        },
+        "Hounslow": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 23157
+        },
+        "Newham": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 33289
+        },
+        "Sutton": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 12348
+        },
+        "Haringey": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 27263
+        },
+        "Lambeth": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 44006
+        },
+        "Richmond upon Thames": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 13108
+        },
+        "Hillingdon": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 30488
+        },
+        "Havering": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 17716
+        },
+        "Barking and Dagenham": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 16740
+        },
+        "Kingston upon Thames": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 13346
+        },
+        "Westminster": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 142032
+        },
+        "Hackney": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 30267
+        },
+        "Enfield": {
+            "category": "Theft and Handling",
+            "subcategory": "Theft From Motor Vehicle",
+            "count": 23042
+        },
+        "Harrow": {
+            "category": "Burglary",
+            "subcategory": "Burglary in a Dwelling",
+            "count": 14918
+        },
+        "Lewisham": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 24807
+        },
+        "Brent": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 24779
+        },
+        "Southwark": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 42879
+        },
+        "Barnet": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 29966
+        },
+        "Waltham Forest": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 25462
+        },
+        "Camden": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 64265
+        },
+        "Bexley": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 12909
+        },
+        "Kensington and Chelsea": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 42217
+        },
+        "Islington": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 37330
+        },
+        "Tower Hamlets": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 32995
+        },
+        "Hammersmith and Fulham": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 28082
+        },
+        "Merton": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 14700
+        },
+        "City of London": {
+            "category": "Theft and Handling",
+            "subcategory": "Other Theft",
+            "count": 270
+        }
+    }
+}
