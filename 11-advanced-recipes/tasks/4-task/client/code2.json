@@ -1,0 +1,4 @@
+{
+  "code": "function(...args) {\n  return args.reduce((a, b) => a + b, 0);\n}",
+  "args": [2, 3, 5, 10]
+}
